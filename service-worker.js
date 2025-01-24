@@ -1,7 +1,7 @@
 // service-worker.js
 const CACHE_NAME = "fireworks-cache-v1";
 const urlsToCache = [
-    "/fireworks.html",
+    "/index.html",
     "/manifest.json",
     "/icon.png"
 ];
